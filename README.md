@@ -1,3 +1,4 @@
+![cover](d.png)
 ### Hi! I'm Aysun :raising_hand:
 
 
