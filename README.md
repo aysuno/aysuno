@@ -1,4 +1,4 @@
-![cover](d.png)
+<!--![cover](sd.png)-->
 ### Hi! I'm Aysun :raising_hand:
 
 
