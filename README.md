@@ -6,7 +6,7 @@
 
 I'm a computer science and engineering student at Sabancı University. Visual computing, HCI, HRI and AI are the areas that interest me the most :sparkler:
 
-- :computer: I'm currently learning many things and trying to figure out which one I like best
+- :computer: I'm currently learning Frontend Web Development
 - :mag_right: I’m currently working on a website project for students
 - 👯 I’m open to collaborate on everything!
 
