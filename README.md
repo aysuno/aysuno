@@ -4,7 +4,9 @@
 ### Hi! I'm Aysun :raising_hand:
 
 
-I'm a computer science and engineering student at Sabancı University. Visual computing, HCI, HRI and AI are the areas that interest me the most :sparkler:
+I'm a computer science and engineering student at Sabancı University. 
+
+<!-- Visual computing, HCI, HRI and AI are the areas that interest me the most :sparkler: -->
 <!--
 - :computer: I'm currently learning Frontend Web Development
 - :mag_right: I’m currently working on a website project for students
