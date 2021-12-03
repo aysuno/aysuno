@@ -1,5 +1,5 @@
-<!--![cover](sd.png)-->
-<img align="right" width="250px" src="nmd.png" style="max-width:100%;">
+<!--![cover](sd.png)--> 
+<!-- <img align="right" width="250px" src="nmd.png" style="max-width:100%;"> -->
 
 ### Hi! I'm Aysun :raising_hand:
 
